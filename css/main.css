@@ -1,0 +1,38 @@
+li {
+	display: inline-block;
+}
+
+ul {
+	text-align: center;
+	background-color: #353434;
+	margin: 0 auto;
+	padding-top: 15PX;
+	height:50px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	margin:0 50px;
+	position: center;
+}
+.navbarfont {
+	font-family: Arial
+}
+header{
+	font-family: Arial;
+	font-size:100px;
+	text-align: center;
+ }
+.iphone8 {
+	margin:15px;
+}
+.TV {
+	margin:15px;
+}
+.container {
+	display: inline-block;
+}
+.firstlineads {
+	display: inline-block;
+}
